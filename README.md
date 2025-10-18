@@ -16,10 +16,10 @@ Using Python’s data analysis and visualization libraries, it helps understand 
 
 ## 🗂️ Project Structure
 Netflix_Analysis/
-│
-├── Sunandita_Netflix_Analysis.ipynb # Main Jupyter Notebook
-├── README.md # Project description and guide
-└── dataset/ # (Optional) Folder containing dataset
+# │
+# ├── Sunandita_Netflix_Analysis.ipynb # Main Jupyter Notebook
+# ├── README.md # Project description and guide
+# └── dataset/ # (Optional) Folder containing dataset
 
 ---
 
@@ -48,7 +48,7 @@ The dataset used is the **Netflix Movies and TV Shows Dataset** from Kaggle.
 - `description`
 
 📥 **Dataset Source:**  
-[Netflix Movies and TV Shows Dataset – Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+https://1drv.ms/x/c/87038a80068ac5c5/ER6E-5IpqXRKmlN8EZVuMfABd0d_K4mMJXQN39e8Pp_ySQ?e=A7Yoql
 
 ---
 
