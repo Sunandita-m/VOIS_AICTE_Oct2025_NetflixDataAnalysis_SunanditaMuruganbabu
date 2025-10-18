@@ -77,10 +77,9 @@ Perform sentiment analysis on content descriptions
 
 Build a Streamlit dashboard for interactive visualization
 
+<img width="1536" height="1024" alt="ChatGPT Image Oct 18, 2025, 06_19_37 PM" src="https://github.com/user-attachments/assets/0aab048c-54e7-4dd1-b505-fb1bc3a0c9d6" />
+
 ### 🧑‍💻 Author
 
 Sunandita M
 Department of Computer Science and Engineering
-
-📧 Feel free to connect or contribute!
-<img width="1536" height="1024" alt="ChatGPT Image Oct 18, 2025, 06_19_37 PM" src="https://github.com/user-attachments/assets/0aab048c-54e7-4dd1-b505-fb1bc3a0c9d6" />
