@@ -16,10 +16,10 @@ Using Python’s data analysis and visualization libraries, it helps understand 
 
 ## 🗂️ Project Structure
 Netflix_Analysis/
- │
- ├── Sunandita_Netflix_Analysis.ipynb # Main Jupyter Notebook
- ├── README.md # Project description and guide
- └── dataset/ # (Optional) Folder containing dataset
+ **│**
+ **├── Sunandita_Netflix_Analysis.ipynb # Main Jupyter Notebook**
+ **├── README.md # Project description and guide**
+ **└── dataset/ # (Optional) Folder containing dataset**
 
 ---
 
@@ -83,3 +83,4 @@ Sunandita M
 Department of Computer Science and Engineering
 
 📧 Feel free to connect or contribute!
+<img width="1536" height="1024" alt="ChatGPT Image Oct 18, 2025, 06_19_37 PM" src="https://github.com/user-attachments/assets/0aab048c-54e7-4dd1-b505-fb1bc3a0c9d6" />
