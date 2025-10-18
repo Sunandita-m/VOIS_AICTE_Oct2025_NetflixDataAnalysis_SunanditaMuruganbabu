@@ -16,10 +16,10 @@ Using Python’s data analysis and visualization libraries, it helps understand 
 
 ## 🗂️ Project Structure
 Netflix_Analysis/
-# │
-# ├── Sunandita_Netflix_Analysis.ipynb # Main Jupyter Notebook
-# ├── README.md # Project description and guide
-# └── dataset/ # (Optional) Folder containing dataset
+ │
+ ├── Sunandita_Netflix_Analysis.ipynb # Main Jupyter Notebook
+ ├── README.md # Project description and guide
+ └── dataset/ # (Optional) Folder containing dataset
 
 ---
 
